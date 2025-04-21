@@ -2,7 +2,7 @@
 ## 100 basic Java problems
 
 ### 🟢 Easy Level
-Problem 1: Hello, Java!
+Problem 1: Hello, Java!✅
 
 Problem 2: Simple Addition Calculator
 
